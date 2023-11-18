@@ -1,0 +1,1 @@
+print("pivozavor its power")
